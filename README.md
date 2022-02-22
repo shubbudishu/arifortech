@@ -1,0 +1,2 @@
+# arifortech
+static website
