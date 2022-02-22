@@ -1,0 +1,181 @@
+@media screen and (min-width : 240px) and (max-width : 767px) {
+
+  .home_categories {
+
+    display: none;
+
+}
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px ){
+
+    .middle-align {
+
+    width: 100% !important; 
+
+}
+
+.xs-hidden{
+
+    display: none;
+
+}
+
+.elementor-image { 
+
+	 
+
+}
+
+.elementor2 img {
+
+   /* position: absolute;*/
+
+    left: 0px; 
+
+    top: 0px; 
+
+    width: 91% !important;
+
+}
+
+.elementor1 { 
+
+    right: 11% !important;
+
+    bottom: 10% !important;
+
+}
+
+.webdevelopment-core-businessSection {
+
+    margin: 0px !important; 
+
+}
+
+.seo-coreDiv1 {
+
+    margin: 0px 0px 0px 0px !important;  
+
+}
+
+.p-a60 {
+
+    padding: 10px !important;
+
+}
+
+.mean-container .mean-nav > ul {
+
+    overflow-y: auto !important;  
+
+}
+
+h2 {
+
+    font-size: 20px !important;
+
+    line-height: 35px !important;
+
+}
+
+.web_bg { 
+
+    padding-top: 15px !important;
+
+    padding-bottom: 0px;
+
+}
+
+.why-chose-wrap-layout4 {
+
+    padding: 3rem 0 3.5rem !important;
+
+}
+
+ .api-integration-Div1 {
+
+    margin-top: 10px !important;
+
+}
+
+.api-integration-image1 {
+
+    padding: 85px 0px 0px !important;
+
+}
+
+.host_space {
+
+    padding: 0px 30px 15px 0px !important;
+
+    text-align: center;
+
+}
+
+.contact-form-box-layout1 {
+
+    padding: 15px !important ;
+
+}
+
+
+
+
+
+
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 767px ){
+
+ .middle-align {
+
+    width: 100% !important; 
+
+}
+
+.sm-hidden{
+
+    display: none;
+
+}
+
+}
+
+
+
+/*@media screen and (min-width: 621px) and (max-width: 767px ){
+
+.how-works{
+
+    width:50%;
+
+}
+
+
+
+
+
+}*/
+
+@media screen and (min-width: 768px) and (max-width: 990px ){
+
+ .sm-hidden{
+
+    display: none;
+
+}
+
+.home_categories {
+
+    display: none;
+
+}
+
+ 
+
+
+
+}
